@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chromecode.android.metronome"
+    android:versionCode="5"
+    android:versionName="2.0">
+
+    <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="14" />
+
+    <application android:allowBackup="true"
+        android:label="@string/app_name"
+        android:icon="@drawable/ic_launcher">
+
+    </application>
+
+</manifest>

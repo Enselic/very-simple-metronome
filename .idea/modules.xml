@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VerySimpleMetronome/VerySimpleMetronome.iml" filepath="$PROJECT_DIR$/VerySimpleMetronome/VerySimpleMetronome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/very-simple-metronome.iml" filepath="$PROJECT_DIR$/very-simple-metronome.iml" />
+    </modules>
+  </component>
+</project>
+
