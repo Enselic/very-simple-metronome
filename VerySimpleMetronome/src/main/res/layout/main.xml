@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.chromecode.android.metronome"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    >
+
+    <com.chromecode.android.metronome.MetronomeView
+        android:id="@+id/metronome_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        app:defaultBpm="76"
+        app:minBpm="20"
+        app:maxBpm="200"
+        />
+    
+    <TextView
+        android:id="@+id/bpm_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:textSize="@dimen/config_bpmTextSize"
+        android:textColor="#ffffffff"
+        />        
+
+</RelativeLayout>

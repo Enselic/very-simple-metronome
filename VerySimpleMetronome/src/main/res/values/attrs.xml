@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MetronomeView">
+        <attr name="defaultBpm" format="integer" />
+        <attr name="minBpm" format="integer" />
+        <attr name="maxBpm" format="integer" />
+    </declare-styleable>
+</resources>
