@@ -1,3 +1,8 @@
+/**
+ * Copyright (C) 2014 Martin Nordholts.
+ * All rights reserved.
+ */
+
 package com.chromecode.android.metronome;
 
 import android.content.Context;
